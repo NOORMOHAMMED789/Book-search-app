@@ -1,0 +1,21 @@
+.display_heading {
+  position: relative;
+  top: -115vh;
+  left: 22vw;
+  padding-top: 1vh;
+  padding-bottom: 1vh;
+  border: 1px solid black;
+}
+
+.images {
+  display: flex;
+  justify-content: space-evenly;
+  align-items: center;
+}
+
+.lower {
+  position: absolute;
+  top: -1vh;
+  left: 23vw;
+  color: black;
+}
